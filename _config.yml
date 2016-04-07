@@ -1,0 +1,28 @@
+name: 'sparks&elements'
+favicon: null
+layout_spectrum: 0.6429543723352253
+typography_spectrum: 0.2974596081767231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28754098643548787
+  lightness: 0.36711926478892565
+  saturation: 0.09415993932634592
+  rhythmicContrast: 0.566520007327199
+purpose: []
